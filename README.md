@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @alvinnn1909
-This is my mini project just to use my logical skill to solve problem. Spin game!! Fork me and check it out.
+- 👋 Hi, I’m Tola. Beginner and Transforming into Junior Developer. maybe or maybe not. Anyway, Nice to meet you. 
